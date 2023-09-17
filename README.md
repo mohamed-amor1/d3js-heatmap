@@ -12,7 +12,7 @@ This project displays a heatmap of global temperature variances over the years. 
 
 ## How to Use
 
-View the Heatmap: Open the project in a web browser. The heatmap will be displayed on the webpage, showing temperature variances across different months and years.
+View the Heatmap: Open the project in a web browser by clicking [here](https://d3js-heatmap-temperature.netlify.app/). The heatmap will be displayed on the webpage, showing temperature variances across different months and years.
 
 Interact with Data: Hover over a cell to see detailed information about the temperature variance for a specific month and year.
 
