@@ -1,6 +1,6 @@
 # Global Temperature Heatmap
 
-[Heatmap Preview](screenshot.png)
+![Heatmap Preview](screenshot.png)
 
 This project displays a heatmap of global temperature variances over the years. It uses D3.js to create an interactive visualization that allows users to explore temperature changes month by month.
 
